@@ -1,16 +1,13 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá, Eu sou o Vinicius!
 
-Sou um desenvolvedor Frontend apaixonado por criar interfaces modernas e funcionais. Atualmente, estou aprimorando minhas habilidades e buscando aprender as melhores práticas de desenvolvimento.
-
-## 🚀 Tecnologias e Ferramentas
-
-- ⚛️ React
+## 🚀 Tecnologias e Ferramenta
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.svg">
 </div>
-- 📦 Git & GitHub
 
 ## 📌 Projetos Recentes
 
